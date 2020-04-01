@@ -1,0 +1,30 @@
+/* body styling */
+.body {
+	background-color: #282c34;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* title */
+#heading {
+    width: 100vw;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    font-size: 2vw;
+    }
+
+/* map container - height and width scale with window size, in center */
+#map {
+    margin: auto;
+    height: 60vh;
+    width: 70vw;
+    padding: 10px;
+    }
