@@ -6,4 +6,4 @@ Added more information to popups - matches with current map (google version)
 Whole map exists in a single <div> so can be integrated easily (need to add dependancies in html header)
   - only one .js file needed aswell (css file only for div size and background and title)
 
-Need to add way to get data from firebase as and array of dictionaries.
+Need to add way to get data from firebase as an array of dictionaries.
